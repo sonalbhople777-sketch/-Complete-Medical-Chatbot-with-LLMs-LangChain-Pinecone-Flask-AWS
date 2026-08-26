@@ -130,3 +130,4 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+   879343930412.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
